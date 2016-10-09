@@ -43,7 +43,7 @@ Or, you can enable all the tests by commenting out the
 `ExUnit.configure` line in the test suite.
 
 ```elixir
-# ExUnit.configure exclude: :pending, trace: true
+# ExUnit.configure exclude: :pending
 ```
 
 For more detailed information about the Elixir track, please

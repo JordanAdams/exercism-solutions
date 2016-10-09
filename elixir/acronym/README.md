@@ -1,15 +1,12 @@
-# Bob
+# Acronym
 
-Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+Convert a long phrase to its acronym
 
-Bob answers 'Sure.' if you ask him a question.
+Techies love their TLA (Three Letter Acronyms)!
 
-He answers 'Whoa, chill out!' if you yell at him.
+Help generate some jargon by writing a program that converts a long name
+like Portable Network Graphics to its acronym (PNG).
 
-He says 'Fine. Be that way!' if you address him without actually saying
-anything.
-
-He answers 'Whatever.' to anything else.
 
 ## Running tests
 
@@ -50,7 +47,7 @@ see the [help page](http://exercism.io/languages/elixir).
 
 ## Source
 
-Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
+Julien Vanier [https://github.com/monkbroc](https://github.com/monkbroc)
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.

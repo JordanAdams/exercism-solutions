@@ -1,15 +1,9 @@
-# Bob
+# Bracket Push
 
-Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+Make sure the brackets and braces all match.
 
-Bob answers 'Sure.' if you ask him a question.
-
-He answers 'Whoa, chill out!' if you yell at him.
-
-He says 'Fine. Be that way!' if you address him without actually saying
-anything.
-
-He answers 'Whatever.' to anything else.
+Ensure that all the brackets and braces are matched correctly,
+and nested correctly.
 
 ## Running tests
 
@@ -42,7 +36,7 @@ Or, you can enable all the tests by commenting out the
 `ExUnit.configure` line in the test suite.
 
 ```elixir
-# ExUnit.configure exclude: :pending
+# ExUnit.configure exclude: :pending, trace: true
 ```
 
 For more detailed information about the Elixir track, please
@@ -50,7 +44,7 @@ see the [help page](http://exercism.io/languages/elixir).
 
 ## Source
 
-Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
+Ginna Baker
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.

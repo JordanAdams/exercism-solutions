@@ -1,15 +1,12 @@
-# Bob
+# Nth Prime
 
-Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+Write a program that can tell you what the nth prime is.
 
-Bob answers 'Sure.' if you ask him a question.
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that
+the 6th prime is 13.
 
-He answers 'Whoa, chill out!' if you yell at him.
-
-He says 'Fine. Be that way!' if you address him without actually saying
-anything.
-
-He answers 'Whatever.' to anything else.
+If your language provides methods in the standard library to deal with prime
+numbers, pretend they don't exist and implement them yourself.
 
 ## Running tests
 
@@ -42,7 +39,7 @@ Or, you can enable all the tests by commenting out the
 `ExUnit.configure` line in the test suite.
 
 ```elixir
-# ExUnit.configure exclude: :pending
+# ExUnit.configure exclude: :pending, trace: true
 ```
 
 For more detailed information about the Elixir track, please
@@ -50,7 +47,7 @@ see the [help page](http://exercism.io/languages/elixir).
 
 ## Source
 
-Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
+A variation on Problem 7 at Project Euler [http://projecteuler.net/problem=7](http://projecteuler.net/problem=7)
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.

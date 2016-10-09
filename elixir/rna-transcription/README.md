@@ -1,15 +1,22 @@
-# Bob
+# Rna Transcription
 
-Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+Write a program that, given a DNA strand, returns its RNA complement (per RNA transcription).
 
-Bob answers 'Sure.' if you ask him a question.
+Both DNA and RNA strands are a sequence of nucleotides.
 
-He answers 'Whoa, chill out!' if you yell at him.
+The four nucleotides found in DNA are adenine (**A**), cytosine (**C**),
+guanine (**G**) and thymine (**T**).
 
-He says 'Fine. Be that way!' if you address him without actually saying
-anything.
+The four nucleotides found in RNA are adenine (**A**), cytosine (**C**),
+guanine (**G**) and uracil (**U**).
 
-He answers 'Whatever.' to anything else.
+Given a DNA strand, its transcribed RNA strand is formed by replacing
+each nucleotide with its complement:
+
+* `G` -> `C`
+* `C` -> `G`
+* `T` -> `A`
+* `A` -> `U`
 
 ## Running tests
 
@@ -42,7 +49,7 @@ Or, you can enable all the tests by commenting out the
 `ExUnit.configure` line in the test suite.
 
 ```elixir
-# ExUnit.configure exclude: :pending
+# ExUnit.configure exclude: :pending, trace: true
 ```
 
 For more detailed information about the Elixir track, please
@@ -50,7 +57,7 @@ see the [help page](http://exercism.io/languages/elixir).
 
 ## Source
 
-Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
+Rosalind [http://rosalind.info/problems/rna](http://rosalind.info/problems/rna)
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.

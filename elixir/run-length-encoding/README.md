@@ -1,15 +1,22 @@
-# Bob
+# Run Length Encoding
 
-Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+Implement run-length encoding and decoding.
 
-Bob answers 'Sure.' if you ask him a question.
+Run-length encoding (RLE) is a simple form of data compression, where runs
+(consecutive data elements) are replaced by just one data value and count.
 
-He answers 'Whoa, chill out!' if you yell at him.
+For example we can represent the original 53 characters with only 13.
 
-He says 'Fine. Be that way!' if you address him without actually saying
-anything.
+```
+"WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWB"  ->  "12WB12W3B24WB"
+```
 
-He answers 'Whatever.' to anything else.
+RLE allows the original data to be perfectly reconstructed from
+the compressed data, which makes it a lossless data compression.
+
+```
+"AABCCCDEEEE"  ->  "2AB3CD4E"  ->  "AABCCCDEEEE"
+```
 
 ## Running tests
 
@@ -50,7 +57,7 @@ see the [help page](http://exercism.io/languages/elixir).
 
 ## Source
 
-Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
+Wikipedia [https://en.wikipedia.org/wiki/Run-length_encoding](https://en.wikipedia.org/wiki/Run-length_encoding)
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.

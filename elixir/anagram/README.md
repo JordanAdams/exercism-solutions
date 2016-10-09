@@ -1,15 +1,10 @@
-# Bob
+# Anagram
 
-Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+Write a program that, given a word and a list of possible anagrams, selects the correct sublist.
 
-Bob answers 'Sure.' if you ask him a question.
-
-He answers 'Whoa, chill out!' if you yell at him.
-
-He says 'Fine. Be that way!' if you address him without actually saying
-anything.
-
-He answers 'Whatever.' to anything else.
+Given `"listen"` and a list of candidates like `"enlists" "google"
+"inlets" "banana"` the program should return a list containing
+`"inlets"`.
 
 ## Running tests
 
@@ -42,7 +37,7 @@ Or, you can enable all the tests by commenting out the
 `ExUnit.configure` line in the test suite.
 
 ```elixir
-# ExUnit.configure exclude: :pending
+# ExUnit.configure exclude: :pending, trace: true
 ```
 
 For more detailed information about the Elixir track, please
@@ -50,7 +45,7 @@ see the [help page](http://exercism.io/languages/elixir).
 
 ## Source
 
-Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
+Inspired by the Extreme Startup game [https://github.com/rchatley/extreme_startup](https://github.com/rchatley/extreme_startup)
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
