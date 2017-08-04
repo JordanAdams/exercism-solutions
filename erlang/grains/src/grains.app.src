@@ -1,0 +1,9 @@
+{application, grains,
+  [{description, "exercism.io - grains"},
+    {vsn, "0.0.1"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel,
+      stdlib]},
+    {env, []}
+  ]}.
