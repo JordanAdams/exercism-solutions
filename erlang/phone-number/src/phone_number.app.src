@@ -1,0 +1,9 @@
+{application, phone_number,
+  [{description, "exercism.io - phone-number"},
+    {vsn, "0.0.1"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel,
+      stdlib]},
+    {env, []}
+  ]}.
