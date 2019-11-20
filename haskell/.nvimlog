@@ -1,0 +1,365 @@
+INFO  2019-11-14T18:07:07.376 77491 channel_create_event:199: new channel 3 (function coc#rpc#start_server[16]..<SNR>75_start:25) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2019-11-14T18:07:07.529 77491 main:564: starting main loop
+INFO  2019-11-14T18:07:08.245 77491 on_process_exit:394: exited: pid=77554 status=0 stoptime=0
+INFO  2019-11-14T18:07:17.407 77491 channel_create_event:199: new channel 4 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:17.417 77491 on_process_exit:394: exited: pid=77616 status=1 stoptime=0
+INFO  2019-11-14T18:07:17.421 77491 on_process_exit:394: exited: pid=77618 status=0 stoptime=0
+INFO  2019-11-14T18:07:17.524 77491 channel_create_event:199: new channel 5 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:17.529 77491 channel_create_event:199: new channel 6 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:17.536 77491 channel_create_event:199: new channel 7 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:17.540 77491 channel_create_event:199: new channel 8 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 8, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:18.127 77491 on_process_exit:394: exited: pid=77621 status=1 stoptime=0
+INFO  2019-11-14T18:07:18.167 77491 on_process_exit:394: exited: pid=77619 status=1 stoptime=0
+INFO  2019-11-14T18:07:18.176 77491 on_process_exit:394: exited: pid=77622 status=1 stoptime=0
+INFO  2019-11-14T18:07:18.370 77491 on_process_exit:394: exited: pid=77620 status=0 stoptime=0
+INFO  2019-11-14T18:07:19.578 77491 channel_create_event:199: new channel 9 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 9, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:19.585 77491 on_process_exit:394: exited: pid=77856 status=1 stoptime=0
+INFO  2019-11-14T18:07:20.582 77491 channel_create_event:199: new channel 10 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 10, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:20.589 77491 on_process_exit:394: exited: pid=77860 status=1 stoptime=0
+INFO  2019-11-14T18:07:22.557 77491 channel_create_event:199: new channel 11 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:22.585 77491 on_process_exit:394: exited: pid=77862 status=1 stoptime=0
+INFO  2019-11-14T18:07:23.215 77491 channel_create_event:199: new channel 12 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:07:23.223 77491 on_process_exit:394: exited: pid=77866 status=1 stoptime=0
+INFO  2019-11-14T18:09:10.291 77491 channel_create_event:199: new channel 13 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:09:10.300 77491 on_process_exit:394: exited: pid=77872 status=1 stoptime=0
+INFO  2019-11-14T18:09:10.362 77491 channel_create_event:199: new channel 14 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 14, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:09:10.368 77491 channel_create_event:199: new channel 15 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 15, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:09:10.373 77491 channel_create_event:199: new channel 16 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 16, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:09:10.381 77491 channel_create_event:199: new channel 17 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 17, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:09:11.039 77491 on_process_exit:394: exited: pid=77874 status=1 stoptime=0
+INFO  2019-11-14T18:09:11.039 77491 on_process_exit:394: exited: pid=77876 status=1 stoptime=0
+INFO  2019-11-14T18:09:11.229 77491 on_process_exit:394: exited: pid=77875 status=1 stoptime=0
+INFO  2019-11-14T18:09:11.229 77491 on_process_exit:394: exited: pid=77877 status=1 stoptime=0
+INFO  2019-11-14T18:09:11.337 77491 channel_create_event:199: new channel 18 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 18, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:09:11.346 77491 on_process_exit:394: exited: pid=78104 status=1 stoptime=0
+INFO  2019-11-14T18:09:37.755 77491 channel_create_event:199: new channel 19 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 19, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:09:37.795 77491 on_process_exit:394: exited: pid=78135 status=1 stoptime=0
+INFO  2019-11-14T18:09:38.322 77491 channel_create_event:199: new channel 20 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 20, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:09:38.351 77491 on_process_exit:394: exited: pid=78140 status=1 stoptime=0
+INFO  2019-11-14T18:10:18.565 77491 channel_create_event:199: new channel 21 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 21, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:10:18.598 77491 on_process_exit:394: exited: pid=78146 status=1 stoptime=0
+INFO  2019-11-14T18:10:20.647 77491 channel_create_event:199: new channel 22 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 22, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:10:20.655 77491 on_process_exit:394: exited: pid=78151 status=1 stoptime=0
+INFO  2019-11-14T18:10:26.944 77491 channel_create_event:199: new channel 23 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 23, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T18:10:26.973 77491 on_process_exit:394: exited: pid=78156 status=1 stoptime=0
+INFO  2019-11-14T18:10:38.269 77491 on_process_exit:394: exited: pid=78161 status=0 stoptime=0
+INFO  2019-11-14T19:00:57.685 77491 on_process_exit:394: exited: pid=78202 status=0 stoptime=0
+INFO  2019-11-14T19:01:42.425 77491 on_process_exit:394: exited: pid=78369 status=0 stoptime=0
+INFO  2019-11-14T19:01:53.140 77491 channel_create_event:199: new channel 24 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 24, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:01:53.165 77491 on_process_exit:394: exited: pid=78376 status=1 stoptime=0
+INFO  2019-11-14T19:01:55.350 77491 channel_create_event:199: new channel 25 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 25, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:01:55.381 77491 on_process_exit:394: exited: pid=78381 status=1 stoptime=0
+INFO  2019-11-14T19:01:59.391 77491 on_process_exit:394: exited: pid=78383 status=0 stoptime=0
+INFO  2019-11-14T19:02:14.650 77491 channel_create_event:199: new channel 26 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 26, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:02:14.675 77491 on_process_exit:394: exited: pid=78387 status=1 stoptime=0
+INFO  2019-11-14T19:05:50.743 77491 channel_create_event:199: new channel 27 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 27, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:05:50.750 77491 on_process_exit:394: exited: pid=78402 status=1 stoptime=0
+INFO  2019-11-14T19:05:52.663 77491 on_process_exit:394: exited: pid=78404 status=0 stoptime=0
+INFO  2019-11-14T19:05:54.338 77491 on_process_exit:394: exited: pid=78405 status=0 stoptime=0
+INFO  2019-11-14T19:06:03.417 77491 channel_create_event:199: new channel 28 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 28, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:06:03.431 77491 on_process_exit:394: exited: pid=78409 status=1 stoptime=0
+INFO  2019-11-14T19:06:08.019 77491 channel_create_event:199: new channel 29 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 29, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:06:08.025 77491 on_process_exit:394: exited: pid=78414 status=1 stoptime=0
+INFO  2019-11-14T19:06:09.449 77491 on_process_exit:394: exited: pid=78416 status=0 stoptime=0
+INFO  2019-11-14T19:09:03.119 77491 on_process_exit:394: exited: pid=78434 status=0 stoptime=0
+INFO  2019-11-14T19:09:03.619 77491 on_process_exit:394: exited: pid=78435 status=0 stoptime=0
+INFO  2019-11-14T19:10:37.649 77491 channel_create_event:199: new channel 30 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 30, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:10:37.674 77491 on_process_exit:394: exited: pid=78448 status=1 stoptime=0
+INFO  2019-11-14T19:10:41.860 77491 channel_create_event:199: new channel 31 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 31, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:10:41.866 77491 on_process_exit:394: exited: pid=78450 status=1 stoptime=0
+INFO  2019-11-14T19:10:42.528 77491 on_process_exit:394: exited: pid=78455 status=0 stoptime=0
+INFO  2019-11-14T19:10:46.160 77491 channel_create_event:199: new channel 32 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 32, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:10:46.200 77491 on_process_exit:394: exited: pid=78459 status=1 stoptime=0
+INFO  2019-11-14T19:10:47.152 77491 channel_create_event:199: new channel 33 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 33, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:10:47.171 77491 on_process_exit:394: exited: pid=78464 status=1 stoptime=0
+INFO  2019-11-14T19:10:53.492 77491 channel_create_event:199: new channel 34 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 34, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:10:53.516 77491 on_process_exit:394: exited: pid=78466 status=1 stoptime=0
+INFO  2019-11-14T19:10:54.857 77491 channel_create_event:199: new channel 35 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 35, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:10:54.865 77491 on_process_exit:394: exited: pid=78470 status=1 stoptime=0
+INFO  2019-11-14T19:11:03.062 77491 channel_create_event:199: new channel 36 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 36, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:11:03.081 77491 on_process_exit:394: exited: pid=78475 status=1 stoptime=0
+INFO  2019-11-14T19:11:47.917 77491 channel_create_event:199: new channel 37 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 37, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:11:48.006 77491 on_process_exit:394: exited: pid=78479 status=2 stoptime=0
+INFO  2019-11-14T19:11:48.014 77491 channel_create_event:199: new channel 38 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 38, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:11:48.018 77491 channel_create_event:199: new channel 39 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 39, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:11:48.023 77491 channel_create_event:199: new channel 40 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 40, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:11:48.027 77491 channel_create_event:199: new channel 41 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 41, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:11:48.532 77491 on_process_exit:394: exited: pid=78480 status=1 stoptime=0
+INFO  2019-11-14T19:11:48.549 77491 on_process_exit:394: exited: pid=78482 status=1 stoptime=0
+INFO  2019-11-14T19:11:48.659 77491 on_process_exit:394: exited: pid=78483 status=1 stoptime=0
+INFO  2019-11-14T19:11:48.674 77491 on_process_exit:394: exited: pid=78481 status=1 stoptime=0
+INFO  2019-11-14T19:11:57.462 77491 on_process_exit:394: exited: pid=78708 status=0 stoptime=0
+INFO  2019-11-14T19:12:09.595 77491 on_process_exit:394: exited: pid=78709 status=0 stoptime=0
+INFO  2019-11-14T19:12:24.317 77491 on_process_exit:394: exited: pid=78710 status=0 stoptime=0
+INFO  2019-11-14T19:12:25.562 77491 on_process_exit:394: exited: pid=78711 status=0 stoptime=0
+INFO  2019-11-14T19:12:25.867 77491 on_process_exit:394: exited: pid=78712 status=0 stoptime=0
+INFO  2019-11-14T19:12:26.173 77491 on_process_exit:394: exited: pid=78713 status=0 stoptime=0
+INFO  2019-11-14T19:12:48.893 77491 channel_create_event:199: new channel 42 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 42, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:12:48.988 77491 on_process_exit:394: exited: pid=78714 status=2 stoptime=0
+INFO  2019-11-14T19:12:48.997 77491 channel_create_event:199: new channel 43 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 43, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:12:49.000 77491 channel_create_event:199: new channel 44 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 44, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:12:49.005 77491 channel_create_event:199: new channel 45 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 45, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:12:49.010 77491 channel_create_event:199: new channel 46 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 46, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:12:49.522 77491 on_process_exit:394: exited: pid=78717 status=1 stoptime=0
+INFO  2019-11-14T19:12:49.534 77491 on_process_exit:394: exited: pid=78715 status=1 stoptime=0
+INFO  2019-11-14T19:12:49.649 77491 on_process_exit:394: exited: pid=78716 status=1 stoptime=0
+INFO  2019-11-14T19:12:49.649 77491 on_process_exit:394: exited: pid=78718 status=1 stoptime=0
+INFO  2019-11-14T19:13:00.343 77491 channel_create_event:199: new channel 47 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 47, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:13:00.363 77491 on_process_exit:394: exited: pid=78946 status=1 stoptime=0
+INFO  2019-11-14T19:13:02.209 77491 channel_create_event:199: new channel 48 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 48, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:13:02.215 77491 on_process_exit:394: exited: pid=78948 status=1 stoptime=0
+INFO  2019-11-14T19:13:03.473 77491 on_process_exit:394: exited: pid=78953 status=0 stoptime=0
+INFO  2019-11-14T19:13:04.796 77491 channel_create_event:199: new channel 49 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 49, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:13:04.837 77491 on_process_exit:394: exited: pid=78960 status=1 stoptime=0
+INFO  2019-11-14T19:13:15.750 77491 on_process_exit:394: exited: pid=78965 status=0 stoptime=0
+INFO  2019-11-14T19:13:52.437 77491 on_process_exit:394: exited: pid=79051 status=0 stoptime=0
+INFO  2019-11-14T19:13:56.140 77491 on_process_exit:394: exited: pid=79052 status=0 stoptime=0
+INFO  2019-11-14T19:13:56.880 77491 on_process_exit:394: exited: pid=79053 status=0 stoptime=0
+INFO  2019-11-14T19:13:57.417 77491 channel_create_event:199: new channel 50 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 50, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:13:57.502 77491 on_process_exit:394: exited: pid=79054 status=2 stoptime=0
+INFO  2019-11-14T19:13:57.509 77491 channel_create_event:199: new channel 51 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 51, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:13:57.513 77491 channel_create_event:199: new channel 52 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 52, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:13:57.518 77491 channel_create_event:199: new channel 53 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 53, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:13:57.523 77491 channel_create_event:199: new channel 54 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 54, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:13:58.077 77491 on_process_exit:394: exited: pid=79055 status=1 stoptime=0
+INFO  2019-11-14T19:13:58.077 77491 on_process_exit:394: exited: pid=79057 status=1 stoptime=0
+INFO  2019-11-14T19:13:58.225 77491 on_process_exit:394: exited: pid=79058 status=1 stoptime=0
+INFO  2019-11-14T19:13:58.228 77491 on_process_exit:394: exited: pid=79056 status=1 stoptime=0
+INFO  2019-11-14T19:14:22.586 77491 channel_create_event:199: new channel 55 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 55, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:14:22.677 77491 on_process_exit:394: exited: pid=79284 status=2 stoptime=0
+INFO  2019-11-14T19:14:22.687 77491 channel_create_event:199: new channel 56 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 56, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:14:22.691 77491 channel_create_event:199: new channel 57 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 57, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:14:22.696 77491 channel_create_event:199: new channel 58 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 58, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:14:22.700 77491 channel_create_event:199: new channel 59 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 59, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:14:23.252 77491 on_process_exit:394: exited: pid=79287 status=1 stoptime=0
+INFO  2019-11-14T19:14:23.274 77491 on_process_exit:394: exited: pid=79285 status=1 stoptime=0
+INFO  2019-11-14T19:14:23.398 77491 on_process_exit:394: exited: pid=79286 status=1 stoptime=0
+INFO  2019-11-14T19:14:23.399 77491 on_process_exit:394: exited: pid=79288 status=1 stoptime=0
+INFO  2019-11-14T19:14:52.796 77491 on_process_exit:394: exited: pid=79517 status=0 stoptime=0
+INFO  2019-11-14T19:15:39.576 77491 on_process_exit:394: exited: pid=79521 status=0 stoptime=0
+INFO  2019-11-14T19:15:40.264 77491 channel_create_event:199: new channel 60 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 60, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:15:40.352 77491 on_process_exit:394: exited: pid=79522 status=2 stoptime=0
+INFO  2019-11-14T19:15:40.361 77491 channel_create_event:199: new channel 61 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 61, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:15:40.364 77491 channel_create_event:199: new channel 62 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 62, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:15:40.370 77491 channel_create_event:199: new channel 63 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 63, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:15:40.376 77491 channel_create_event:199: new channel 64 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 64, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:15:40.863 77491 on_process_exit:394: exited: pid=79525 status=1 stoptime=0
+INFO  2019-11-14T19:15:40.890 77491 on_process_exit:394: exited: pid=79523 status=1 stoptime=0
+INFO  2019-11-14T19:15:40.989 77491 on_process_exit:394: exited: pid=79524 status=1 stoptime=0
+INFO  2019-11-14T19:15:41.012 77491 on_process_exit:394: exited: pid=79526 status=1 stoptime=0
+INFO  2019-11-14T19:18:43.232 77491 on_process_exit:394: exited: pid=79767 status=0 stoptime=0
+INFO  2019-11-14T19:18:45.580 77491 on_process_exit:394: exited: pid=79768 status=0 stoptime=0
+INFO  2019-11-14T19:19:56.765 77491 channel_create_event:199: new channel 65 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 65, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:19:56.790 77491 on_process_exit:394: exited: pid=79772 status=1 stoptime=0
+INFO  2019-11-14T19:19:59.577 77491 on_process_exit:394: exited: pid=79774 status=0 stoptime=0
+INFO  2019-11-14T19:19:59.768 77491 channel_create_event:199: new channel 66 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 66, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:19:59.775 77491 on_process_exit:394: exited: pid=79778 status=1 stoptime=0
+INFO  2019-11-14T19:20:01.776 77491 on_process_exit:394: exited: pid=79780 status=0 stoptime=0
+INFO  2019-11-14T19:20:01.807 77491 on_process_exit:394: exited: pid=79781 status=0 stoptime=0
+INFO  2019-11-14T19:20:21.469 77491 on_process_exit:394: exited: pid=79783 status=0 stoptime=0
+INFO  2019-11-14T19:20:37.018 77491 channel_create_event:199: new channel 67 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 67, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:20:37.185 77491 on_process_exit:394: exited: pid=79784 status=0 stoptime=0
+INFO  2019-11-14T19:20:37.198 77491 channel_create_event:199: new channel 68 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 68, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:20:37.202 77491 channel_create_event:199: new channel 69 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 69, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:20:37.209 77491 channel_create_event:199: new channel 70 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 70, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:20:37.216 77491 channel_create_event:199: new channel 71 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 71, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:20:37.809 77491 on_process_exit:394: exited: pid=79787 status=1 stoptime=0
+INFO  2019-11-14T19:20:37.838 77491 on_process_exit:394: exited: pid=79785 status=1 stoptime=0
+INFO  2019-11-14T19:20:38.117 77491 on_process_exit:394: exited: pid=79786 status=1 stoptime=0
+INFO  2019-11-14T19:20:38.118 77491 on_process_exit:394: exited: pid=79788 status=1 stoptime=0
+INFO  2019-11-14T19:21:10.051 77491 channel_create_event:199: new channel 72 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 72, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:10.142 77491 on_process_exit:394: exited: pid=80013 status=2 stoptime=0
+INFO  2019-11-14T19:21:10.151 77491 channel_create_event:199: new channel 73 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 73, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:10.155 77491 channel_create_event:199: new channel 74 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 74, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:10.160 77491 channel_create_event:199: new channel 75 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 75, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:10.166 77491 channel_create_event:199: new channel 76 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 76, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:10.924 77491 on_process_exit:394: exited: pid=80014 status=1 stoptime=0
+INFO  2019-11-14T19:21:10.953 77491 on_process_exit:394: exited: pid=80016 status=1 stoptime=0
+INFO  2019-11-14T19:21:11.051 77491 on_process_exit:394: exited: pid=80017 status=1 stoptime=0
+INFO  2019-11-14T19:21:11.095 77491 on_process_exit:394: exited: pid=80015 status=1 stoptime=0
+INFO  2019-11-14T19:21:15.782 77491 channel_create_event:199: new channel 77 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 77, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:15.940 77491 on_process_exit:394: exited: pid=80244 status=0 stoptime=0
+INFO  2019-11-14T19:21:15.953 77491 channel_create_event:199: new channel 78 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 78, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:15.957 77491 channel_create_event:199: new channel 79 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 79, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:15.968 77491 channel_create_event:199: new channel 80 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 80, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:15.974 77491 channel_create_event:199: new channel 81 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 81, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:16.601 77491 on_process_exit:394: exited: pid=80247 status=1 stoptime=0
+INFO  2019-11-14T19:21:16.651 77491 on_process_exit:394: exited: pid=80245 status=1 stoptime=0
+INFO  2019-11-14T19:21:16.846 77491 on_process_exit:394: exited: pid=80246 status=1 stoptime=0
+INFO  2019-11-14T19:21:16.857 77491 on_process_exit:394: exited: pid=80248 status=1 stoptime=0
+INFO  2019-11-14T19:21:23.693 77491 channel_create_event:199: new channel 82 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 82, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:23.854 77491 on_process_exit:394: exited: pid=80473 status=0 stoptime=0
+INFO  2019-11-14T19:21:23.862 77491 channel_create_event:199: new channel 83 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 83, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:23.866 77491 channel_create_event:199: new channel 84 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 84, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:23.871 77491 channel_create_event:199: new channel 85 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 85, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:23.877 77491 channel_create_event:199: new channel 86 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 86, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:24.375 77491 on_process_exit:394: exited: pid=80476 status=1 stoptime=0
+INFO  2019-11-14T19:21:24.405 77491 on_process_exit:394: exited: pid=80474 status=1 stoptime=0
+INFO  2019-11-14T19:21:24.595 77491 on_process_exit:394: exited: pid=80475 status=1 stoptime=0
+INFO  2019-11-14T19:21:24.597 77491 on_process_exit:394: exited: pid=80477 status=1 stoptime=0
+INFO  2019-11-14T19:21:25.146 77491 channel_create_event:199: new channel 87 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 87, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:25.157 77491 on_process_exit:394: exited: pid=80706 status=1 stoptime=0
+INFO  2019-11-14T19:21:25.758 77491 channel_create_event:199: new channel 88 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 88, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:25.774 77491 on_process_exit:394: exited: pid=80708 status=1 stoptime=0
+INFO  2019-11-14T19:21:37.810 77491 channel_create_event:199: new channel 89 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 89, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:37.828 77491 on_process_exit:394: exited: pid=80710 status=1 stoptime=0
+INFO  2019-11-14T19:21:47.308 77491 channel_create_event:199: new channel 90 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 90, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:21:47.341 77491 on_process_exit:394: exited: pid=80715 status=1 stoptime=0
+INFO  2019-11-14T19:29:53.296 77491 on_process_exit:394: exited: pid=80765 status=0 stoptime=0
+INFO  2019-11-14T19:30:01.681 77491 channel_create_event:199: new channel 91 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 91, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:01.833 77491 on_process_exit:394: exited: pid=80767 status=0 stoptime=0
+INFO  2019-11-14T19:30:01.841 77491 channel_create_event:199: new channel 92 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 92, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:01.845 77491 channel_create_event:199: new channel 93 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 93, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:01.850 77491 channel_create_event:199: new channel 94 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 94, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:01.857 77491 channel_create_event:199: new channel 95 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 95, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:02.360 77491 on_process_exit:394: exited: pid=80770 status=1 stoptime=0
+INFO  2019-11-14T19:30:02.372 77491 on_process_exit:394: exited: pid=80768 status=1 stoptime=0
+INFO  2019-11-14T19:30:02.556 77491 on_process_exit:394: exited: pid=80769 status=1 stoptime=0
+INFO  2019-11-14T19:30:02.558 77491 on_process_exit:394: exited: pid=80771 status=1 stoptime=0
+INFO  2019-11-14T19:30:20.728 77491 channel_create_event:199: new channel 96 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 96, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:20.881 77491 on_process_exit:394: exited: pid=80996 status=0 stoptime=0
+INFO  2019-11-14T19:30:20.889 77491 channel_create_event:199: new channel 97 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 97, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:20.892 77491 channel_create_event:199: new channel 98 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 98, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:20.898 77491 channel_create_event:199: new channel 99 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 99, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:20.902 77491 channel_create_event:199: new channel 100 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 100, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:30:21.397 77491 on_process_exit:394: exited: pid=80999 status=1 stoptime=0
+INFO  2019-11-14T19:30:21.420 77491 on_process_exit:394: exited: pid=80997 status=1 stoptime=0
+INFO  2019-11-14T19:30:21.596 77491 on_process_exit:394: exited: pid=80998 status=1 stoptime=0
+INFO  2019-11-14T19:30:21.596 77491 on_process_exit:394: exited: pid=81000 status=1 stoptime=0
+INFO  2019-11-14T19:30:37.910 77491 on_process_exit:394: exited: pid=81225 status=0 stoptime=0
+INFO  2019-11-14T19:30:46.990 77491 on_process_exit:394: exited: pid=81226 status=0 stoptime=0
+INFO  2019-11-14T19:30:47.833 77491 on_process_exit:394: exited: pid=81227 status=0 stoptime=0
+INFO  2019-11-14T19:31:04.433 77491 on_process_exit:394: exited: pid=81228 status=0 stoptime=0
+INFO  2019-11-14T19:31:10.325 77491 channel_create_event:199: new channel 101 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 101, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:31:10.335 77491 on_process_exit:394: exited: pid=81229 status=1 stoptime=0
+INFO  2019-11-14T19:32:26.773 77491 on_process_exit:394: exited: pid=81234 status=0 stoptime=0
+INFO  2019-11-14T19:32:32.046 77491 channel_create_event:199: new channel 102 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 102, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:32.056 77491 on_process_exit:394: exited: pid=81235 status=1 stoptime=0
+INFO  2019-11-14T19:32:32.070 77491 channel_create_event:199: new channel 103 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 103, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:32.074 77491 channel_create_event:199: new channel 104 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 104, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:32.079 77491 channel_create_event:199: new channel 105 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 105, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:32.084 77491 channel_create_event:199: new channel 106 (function ale#events#LintOnEnter[5]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 106, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:32.663 77491 on_process_exit:394: exited: pid=81241 status=1 stoptime=0
+INFO  2019-11-14T19:32:32.666 77491 on_process_exit:394: exited: pid=81239 status=1 stoptime=0
+INFO  2019-11-14T19:32:32.857 77491 on_process_exit:394: exited: pid=81242 status=1 stoptime=0
+INFO  2019-11-14T19:32:32.860 77491 on_process_exit:394: exited: pid=81240 status=1 stoptime=0
+INFO  2019-11-14T19:32:34.224 77491 channel_create_event:199: new channel 107 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 107, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:34.260 77491 on_process_exit:394: exited: pid=81470 status=1 stoptime=0
+INFO  2019-11-14T19:32:43.069 77491 channel_create_event:199: new channel 108 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 108, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:43.076 77491 on_process_exit:394: exited: pid=81475 status=1 stoptime=0
+INFO  2019-11-14T19:32:43.436 77491 channel_create_event:199: new channel 109 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 109, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:43.470 77491 on_process_exit:394: exited: pid=81480 status=1 stoptime=0
+INFO  2019-11-14T19:32:44.881 77491 channel_create_event:199: new channel 110 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 110, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:44.904 77491 on_process_exit:394: exited: pid=81482 status=1 stoptime=0
+INFO  2019-11-14T19:32:46.498 77491 on_process_exit:394: exited: pid=81484 status=0 stoptime=0
+INFO  2019-11-14T19:32:47.771 77491 on_process_exit:394: exited: pid=81485 status=0 stoptime=0
+INFO  2019-11-14T19:32:48.284 77491 channel_create_event:199: new channel 111 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 111, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:48.369 77491 on_process_exit:394: exited: pid=81486 status=2 stoptime=0
+INFO  2019-11-14T19:32:48.375 77491 channel_create_event:199: new channel 112 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 112, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:48.379 77491 channel_create_event:199: new channel 113 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 113, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:48.384 77491 channel_create_event:199: new channel 114 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 114, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:48.389 77491 channel_create_event:199: new channel 115 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 115, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:32:48.943 77491 on_process_exit:394: exited: pid=81489 status=1 stoptime=0
+INFO  2019-11-14T19:32:48.969 77491 on_process_exit:394: exited: pid=81487 status=1 stoptime=0
+INFO  2019-11-14T19:32:49.089 77491 on_process_exit:394: exited: pid=81488 status=1 stoptime=0
+INFO  2019-11-14T19:32:49.089 77491 on_process_exit:394: exited: pid=81490 status=1 stoptime=0
+INFO  2019-11-14T19:32:49.468 77491 on_process_exit:394: exited: pid=81718 status=0 stoptime=0
+INFO  2019-11-14T19:33:05.759 77491 channel_create_event:199: new channel 116 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 116, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:05.847 77491 on_process_exit:394: exited: pid=81722 status=2 stoptime=0
+INFO  2019-11-14T19:33:05.854 77491 channel_create_event:199: new channel 117 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 117, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:05.857 77491 channel_create_event:199: new channel 118 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 118, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:05.864 77491 channel_create_event:199: new channel 119 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 119, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:05.869 77491 channel_create_event:199: new channel 120 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 120, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:06.359 77491 on_process_exit:394: exited: pid=81725 status=1 stoptime=0
+INFO  2019-11-14T19:33:06.388 77491 on_process_exit:394: exited: pid=81723 status=1 stoptime=0
+INFO  2019-11-14T19:33:06.422 77491 on_process_exit:394: exited: pid=81954 status=0 stoptime=0
+INFO  2019-11-14T19:33:06.524 77491 on_process_exit:394: exited: pid=81726 status=1 stoptime=0
+INFO  2019-11-14T19:33:06.535 77491 on_process_exit:394: exited: pid=81724 status=1 stoptime=0
+INFO  2019-11-14T19:33:12.859 77491 channel_create_event:199: new channel 121 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 121, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:12.958 77491 on_process_exit:394: exited: pid=81999 status=2 stoptime=0
+INFO  2019-11-14T19:33:12.967 77491 channel_create_event:199: new channel 122 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 122, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:12.971 77491 channel_create_event:199: new channel 123 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 123, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:12.977 77491 channel_create_event:199: new channel 124 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 124, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:12.982 77491 channel_create_event:199: new channel 125 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 125, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:13.525 77491 on_process_exit:394: exited: pid=82002 status=1 stoptime=0
+INFO  2019-11-14T19:33:13.543 77491 on_process_exit:394: exited: pid=82000 status=1 stoptime=0
+INFO  2019-11-14T19:33:13.677 77491 on_process_exit:394: exited: pid=82001 status=1 stoptime=0
+INFO  2019-11-14T19:33:13.677 77491 on_process_exit:394: exited: pid=82003 status=1 stoptime=0
+INFO  2019-11-14T19:33:16.172 77491 on_process_exit:394: exited: pid=82228 status=0 stoptime=0
+INFO  2019-11-14T19:33:16.689 77491 channel_create_event:199: new channel 126 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 126, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:16.780 77491 on_process_exit:394: exited: pid=82229 status=2 stoptime=0
+INFO  2019-11-14T19:33:16.788 77491 channel_create_event:199: new channel 127 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 127, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:16.792 77491 channel_create_event:199: new channel 128 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 128, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:16.798 77491 channel_create_event:199: new channel 129 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 129, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:16.803 77491 channel_create_event:199: new channel 130 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 130, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:33:17.308 77491 on_process_exit:394: exited: pid=82232 status=1 stoptime=0
+INFO  2019-11-14T19:33:17.319 77491 on_process_exit:394: exited: pid=82230 status=1 stoptime=0
+INFO  2019-11-14T19:33:17.433 77491 on_process_exit:394: exited: pid=82231 status=1 stoptime=0
+INFO  2019-11-14T19:33:17.433 77491 on_process_exit:394: exited: pid=82233 status=1 stoptime=0
+INFO  2019-11-14T19:33:49.861 77491 on_process_exit:394: exited: pid=82463 status=0 stoptime=0
+INFO  2019-11-14T19:34:00.909 77491 channel_create_event:199: new channel 131 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 131, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:00.995 77491 on_process_exit:394: exited: pid=82464 status=2 stoptime=0
+INFO  2019-11-14T19:34:01.002 77491 channel_create_event:199: new channel 132 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 132, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:01.006 77491 channel_create_event:199: new channel 133 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 133, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:01.012 77491 channel_create_event:199: new channel 134 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 134, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:01.015 77491 channel_create_event:199: new channel 135 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 135, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:01.524 77491 on_process_exit:394: exited: pid=82467 status=1 stoptime=0
+INFO  2019-11-14T19:34:01.547 77491 on_process_exit:394: exited: pid=82465 status=1 stoptime=0
+INFO  2019-11-14T19:34:01.670 77491 on_process_exit:394: exited: pid=82466 status=1 stoptime=0
+INFO  2019-11-14T19:34:01.670 77491 on_process_exit:394: exited: pid=82468 status=1 stoptime=0
+INFO  2019-11-14T19:34:01.799 77491 channel_create_event:199: new channel 136 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 136, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:01.892 77491 on_process_exit:394: exited: pid=82693 status=2 stoptime=0
+INFO  2019-11-14T19:34:01.900 77491 channel_create_event:199: new channel 137 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 137, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:01.904 77491 channel_create_event:199: new channel 138 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 138, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:01.910 77491 channel_create_event:199: new channel 139 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 139, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:01.918 77491 channel_create_event:199: new channel 140 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 140, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:02.436 77491 on_process_exit:394: exited: pid=82694 status=1 stoptime=0
+INFO  2019-11-14T19:34:02.452 77491 on_process_exit:394: exited: pid=82696 status=1 stoptime=0
+INFO  2019-11-14T19:34:02.551 77491 on_process_exit:394: exited: pid=82697 status=1 stoptime=0
+INFO  2019-11-14T19:34:02.562 77491 on_process_exit:394: exited: pid=82695 status=1 stoptime=0
+INFO  2019-11-14T19:34:04.666 77491 on_process_exit:394: exited: pid=82922 status=0 stoptime=0
+INFO  2019-11-14T19:34:13.821 77491 on_process_exit:394: exited: pid=82923 status=0 stoptime=0
+INFO  2019-11-14T19:34:15.739 77491 channel_create_event:199: new channel 141 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 141, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:15.827 77491 on_process_exit:394: exited: pid=82924 status=2 stoptime=0
+INFO  2019-11-14T19:34:15.836 77491 channel_create_event:199: new channel 142 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 142, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:15.840 77491 channel_create_event:199: new channel 143 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 143, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:15.847 77491 channel_create_event:199: new channel 144 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 144, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:15.852 77491 channel_create_event:199: new channel 145 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 145, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:16.357 77491 on_process_exit:394: exited: pid=82927 status=1 stoptime=0
+INFO  2019-11-14T19:34:16.366 77491 on_process_exit:394: exited: pid=82925 status=1 stoptime=0
+INFO  2019-11-14T19:34:16.493 77491 on_process_exit:394: exited: pid=82926 status=1 stoptime=0
+INFO  2019-11-14T19:34:16.493 77491 on_process_exit:394: exited: pid=82928 status=1 stoptime=0
+INFO  2019-11-14T19:34:24.296 77491 channel_create_event:199: new channel 146 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 146, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:24.380 77491 on_process_exit:394: exited: pid=83153 status=2 stoptime=0
+INFO  2019-11-14T19:34:24.387 77491 channel_create_event:199: new channel 147 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 147, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:24.391 77491 channel_create_event:199: new channel 148 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 148, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:24.396 77491 channel_create_event:199: new channel 149 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 149, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:24.400 77491 channel_create_event:199: new channel 150 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 150, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:34:24.915 77491 on_process_exit:394: exited: pid=83156 status=1 stoptime=0
+INFO  2019-11-14T19:34:24.928 77491 on_process_exit:394: exited: pid=83154 status=1 stoptime=0
+INFO  2019-11-14T19:34:25.049 77491 on_process_exit:394: exited: pid=83157 status=1 stoptime=0
+INFO  2019-11-14T19:34:25.059 77491 on_process_exit:394: exited: pid=83155 status=1 stoptime=0
+INFO  2019-11-14T19:34:51.553 77491 on_process_exit:394: exited: pid=83382 status=0 stoptime=0
+INFO  2019-11-14T19:34:54.132 77491 on_process_exit:394: exited: pid=83383 status=0 stoptime=0
+INFO  2019-11-14T19:34:58.364 77491 on_process_exit:394: exited: pid=83384 status=0 stoptime=0
+INFO  2019-11-14T19:35:00.428 77491 on_process_exit:394: exited: pid=83385 status=0 stoptime=0
+INFO  2019-11-14T19:35:02.149 77491 on_process_exit:394: exited: pid=83386 status=0 stoptime=0
+INFO  2019-11-14T19:35:02.658 77491 on_process_exit:394: exited: pid=83387 status=0 stoptime=0
+INFO  2019-11-14T19:35:03.943 77491 on_process_exit:394: exited: pid=83388 status=0 stoptime=0
+INFO  2019-11-14T19:35:06.521 77491 channel_create_event:199: new channel 151 (function ale#events#SaveEvent[8]..ale#fix#Fix[37]..<SNR>188_RunFixer[34]..<SNR>188_RunJob[75]..ale#job#Start:21) : {"id": 151, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:35:06.612 77491 on_process_exit:394: exited: pid=83389 status=2 stoptime=0
+INFO  2019-11-14T19:35:06.620 77491 channel_create_event:199: new channel 152 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 152, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:35:06.625 77491 channel_create_event:199: new channel 153 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 153, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:35:06.630 77491 channel_create_event:199: new channel 154 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 154, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:35:06.635 77491 channel_create_event:199: new channel 155 (function <SNR>140_NeoVimCallback[29]..<SNR>188_HandleExit[41]..<SNR>188_RunFixer[57]..ale#fix#ApplyFixes[27]..ale#fix#ApplyQueuedFixes[44]..ale#Queue[49]..ale#Lint[34]..ale#engine#RunLinters[14]..<SNR>137_RunLinter[7]..<SNR>137_InvokeChain[4]..<SNR>137_RunJob[62]..ale#job#Start:21) : {"id": 155, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:35:07.173 77491 on_process_exit:394: exited: pid=83392 status=1 stoptime=0
+INFO  2019-11-14T19:35:07.193 77491 on_process_exit:394: exited: pid=83390 status=1 stoptime=0
+INFO  2019-11-14T19:35:07.346 77491 on_process_exit:394: exited: pid=83391 status=1 stoptime=0
+INFO  2019-11-14T19:35:07.349 77491 on_process_exit:394: exited: pid=83393 status=1 stoptime=0
+INFO  2019-11-14T19:35:30.052 77491 on_process_exit:394: exited: pid=83618 status=0 stoptime=0
+INFO  2019-11-14T19:35:38.732 77491 on_process_exit:394: exited: pid=83619 status=0 stoptime=0
+INFO  2019-11-14T19:36:07.474 77491 channel_create_event:199: new channel 156 (function <SNR>67_on_bufenter[5]..gitgutter#init_buffer[4]..gitgutter#utility#set_repo_path[11]..gitgutter#async#execute:11) : {"id": 156, "mode": "bytes", "stream": "job"}
+INFO  2019-11-14T19:36:07.509 77491 on_process_exit:394: exited: pid=83623 status=1 stoptime=0
+INFO  2019-11-14T20:17:27.159 77491 os_proc_tree_kill:96: sending SIGTERM to PID -77492
+INFO  2019-11-14T20:17:27.168 77491 on_process_exit:394: exited: pid=77492 status=143 stoptime=358512219214451
+INFO  2019-11-14T20:17:27.168 77491 mch_exit:99: Nvim exit: 1

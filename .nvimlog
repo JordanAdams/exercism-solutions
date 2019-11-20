@@ -1,0 +1,3 @@
+INFO  2019-11-14T18:07:04.493 59426 os_proc_tree_kill:96: sending SIGTERM to PID -59427
+INFO  2019-11-14T18:07:04.504 59426 on_process_exit:394: exited: pid=59427 status=143 stoptime=354586005858414
+INFO  2019-11-14T18:07:04.505 59426 mch_exit:99: Nvim exit: 0
