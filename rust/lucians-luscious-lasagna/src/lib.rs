@@ -3,7 +3,7 @@ pub fn expected_minutes_in_oven() -> i32 {
 }
 
 pub fn remaining_minutes_in_oven(actual_minutes_in_oven: i32) -> i32 {
-    return expected_minutes_in_oven() - actual_minutes_in_oven
+    return expected_minutes_in_oven() - actual_minutes_in_oven;
 }
 
 pub fn preparation_time_in_minutes(number_of_layers: i32) -> i32 {

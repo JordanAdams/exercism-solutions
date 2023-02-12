@@ -19,9 +19,9 @@ fn contains_sublist<T: PartialEq>(outer: &[T], inner: &[T]) -> bool {
 
     if starts_with(outer, inner) {
         return true;
-    } 
+    }
 
-    return contains_sublist(&outer[1..], inner)
+    return contains_sublist(&outer[1..], inner);
 }
 
 pub fn sublist<T: PartialEq>(_first_list: &[T], _second_list: &[T]) -> Comparison {

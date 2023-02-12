@@ -1,6 +1,6 @@
 use std::fmt::Display;
 
-use enum_iterator::{all, Sequence };
+use enum_iterator::{all, Sequence};
 use int_enum::IntEnum;
 
 #[repr(u32)]
@@ -31,8 +31,8 @@ pub fn color_to_value(color: ResistorColor) -> u32 {
 pub fn value_to_color_string(value: u32) -> String {
     return match ResistorColor::from_int(value) {
         Ok(value) => value.to_string(),
-        Err(_) => String::from("value out of range")
-    }
+        Err(_) => String::from("value out of range"),
+    };
 }
 
 pub fn colors() -> Vec<ResistorColor> {
