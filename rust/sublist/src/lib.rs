@@ -9,7 +9,7 @@ pub enum Comparison {
 }
 
 fn starts_with<T: PartialEq>(list: &[T], start: &[T]) -> bool {
-    return list[0..(start.len())].eq(start);
+    list[0..(start.len())].eq(start)
 }
 
 fn contains_sublist<T: PartialEq>(outer: &[T], inner: &[T]) -> bool {
@@ -21,7 +21,7 @@ fn contains_sublist<T: PartialEq>(outer: &[T], inner: &[T]) -> bool {
         return true;
     }
 
-    return contains_sublist(&outer[1..], inner);
+    contains_sublist(&outer[1..], inner)
 }
 
 pub fn sublist<T: PartialEq>(_first_list: &[T], _second_list: &[T]) -> Comparison {
@@ -45,5 +45,5 @@ pub fn sublist<T: PartialEq>(_first_list: &[T], _second_list: &[T]) -> Compariso
         return Comparison::Sublist;
     }
 
-    return Comparison::Unequal;
+    Comparison::Unequal
 }

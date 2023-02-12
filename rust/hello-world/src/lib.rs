@@ -1,3 +1,3 @@
 pub fn hello() -> String {
-    return String::from("Hello, World!");
+    String::from("Hello, World!")
 }

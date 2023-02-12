@@ -20,21 +20,21 @@ pub enum ResistorColor {
 
 impl Display for ResistorColor {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        return write!(f, "{:?}", self);
+        write!(f, "{:?}", self)
     }
 }
 
 pub fn color_to_value(color: ResistorColor) -> u32 {
-    return color.int_value();
+    color.int_value()
 }
 
 pub fn value_to_color_string(value: u32) -> String {
-    return match ResistorColor::from_int(value) {
+    match ResistorColor::from_int(value) {
         Ok(value) => value.to_string(),
         Err(_) => String::from("value out of range"),
-    };
+    }
 }
 
 pub fn colors() -> Vec<ResistorColor> {
-    return all().collect();
+    all().collect()
 }
